@@ -1,0 +1,9 @@
+Following are some useful GitHub commands
+
+1. git status -- will provide status of any changes to your git hub
+2. git add -- add new items to the repository
+3. git commit m- "message goes here" commits the change to the repository
+4. git push - pushes the code from the local repository to your GitHub account
+5. git pull - pulls any new changes to the repository
+
+6. To stay logged in to your GitHub account in terminal, run git config -l
